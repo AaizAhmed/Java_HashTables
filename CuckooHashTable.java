@@ -1,3 +1,5 @@
+package hashTables;
+
 import java.util.Random;
 
 // Cuckoo Hash table class

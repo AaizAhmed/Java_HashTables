@@ -1,3 +1,4 @@
+package hashTables;
 
 // QuadraticProbing Hash table class
 //

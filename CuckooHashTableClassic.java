@@ -1,6 +1,6 @@
+package hashTables;
+
 import java.util.HashSet;
-
-
 
 // Cuckoo Hash table class
 //
